@@ -5,6 +5,20 @@ appropriate pocket of the appropriate bag.
 
 ## Stuff
 
+### Wear
+
+One change of clothes
+
+* Underwear
+* Pants
+* Socks
+* Shirt
+* Shoes
+
+Wallet
+
+* Bike lock key
+
 ### Needs easy access
 
 Laptop computer
@@ -17,7 +31,70 @@ Phone
 * Phone (Nexus S)
 * Many micro-USB cables
 
+One extra change of clothes in case I sleep somewhere unexpected
+
+* Underwear
+* Socks
+* Shirt
+
+Outerwear
+
+* Two thin sweaters
+* Plastic windbreaker with lots of pockets
+
+Teeth things
+
+* Toothbrush
+* Toothpaste (travel-size only)
+* Normal floss
+* Floss for under my braces
+* Retainer
+
+
+[Vapur Element](http://vapur.us/element) water bottle
+
+Supplies stored in tiny cosmetic sample containers
+
+* [Blue Lizard](http://www.bluelizard.net/) sunscreen
+* Laundry powder (powder so I can bring it on a plane)
+
 ### Doesn't need easy access
+
+Remaining clothes
+
+* One pair of merino wool socks
+* One pair of pants
+* One shirt
+* Dress clothes
+* Cotton leggings
+* Extra shoes
+
+Documents
+
+* Passport
+* A few blank cheques
+* Public transit cards (MetroCard, Oyster Card, Tap Card, &c.)
+* United States national identification (learner's permit)
+* Ordinary wallet things
+* Keys that I'm not using right now (like my Scarsdale key)
+
+Other
+* Small paper notebook
+* Pens
+
+Supplies in slightly larger containers
+
+* Elumin shampoo
+* Hair coloring products
+* Two things of nail polish
+
+Empty space for supplies
+
+* Food
+* Napkins
+* Empty plastic bags
+
+An empty [Ribz Front Pack](http://www.ribzwear.com/ribz-front-pack/), small-size, for extra space in an emergency and for separating dirty laundry.
 
 Electronics
 

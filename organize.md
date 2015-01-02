@@ -63,6 +63,18 @@ Cosmetics stored in tiny containers, such as cosmetic sample containers
 * Soap
 * Conditioner
 
+Bike tools
+
+* Allen keys
+* Patch kit
+* Inner tube
+* Pump
+* Grease
+* Lubricant
+* Maybe some assorted bolts and nuts and so on
+
+Zippo hand warmers?
+
 ### Doesn't need easy access
 
 Remaining clothes
@@ -105,6 +117,18 @@ Electronics
 
 * American and European power cables
 * Another phone
+
+Bike tools
+
+* Truing wrench (?)
+* Pedal wrench
+
+Sleeping
+
+* Hammock
+* Top bag
+
+Books
 
 ## Places
 My [Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)

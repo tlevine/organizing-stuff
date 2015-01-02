@@ -6,7 +6,6 @@ appropriate pocket of the appropriate bag.
 ## Stuff
 
 ### Wear
-
 One change of clothes
 
 * Underwear
@@ -15,11 +14,14 @@ One change of clothes
 * Shirt
 * Shoes
 
+These should be easy to access in the morning and at night, but I obviously
+don't need a spot in the bag to carry them.
+
+### Needs easy access
+
 Wallet
 
 * Bike lock key
-
-### Needs easy access
 
 Laptop computer
 
@@ -72,8 +74,16 @@ Bike tools
 * Grease
 * Lubricant
 * Maybe some assorted bolts and nuts and so on
+* Bike lock
+* Pressure gauge
+* Candle
+* Paint
+  * Brush?
+* Chain tool?
 
 Zippo hand warmers?
+
+Padlock
 
 ### Doesn't need easy access
 
@@ -131,6 +141,8 @@ Sleeping
 Books
 
 Temporary junk
+
+Chess set
 
 ## Places
 My [Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)

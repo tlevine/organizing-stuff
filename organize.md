@@ -50,13 +50,18 @@ Teeth things
 * Floss for under my braces
 * Retainer
 
+Ear plugs
 
 [Vapur Element](http://vapur.us/element) water bottle
 
-Supplies stored in tiny cosmetic sample containers
+Cosmetics stored in tiny containers, such as cosmetic sample containers
 
 * [Blue Lizard](http://www.bluelizard.net/) sunscreen
 * Laundry powder (powder so I can bring it on a plane)
+* Lip balm
+* Elumin shampoo
+* Soap
+* Conditioner
 
 ### Doesn't need easy access
 
@@ -82,7 +87,7 @@ Other
 * Small paper notebook
 * Pens
 
-Supplies in slightly larger containers
+Cosmetics that I don't need day-to-day
 
 * Elumin shampoo
 * Hair coloring products

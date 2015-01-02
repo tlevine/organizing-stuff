@@ -130,6 +130,8 @@ Sleeping
 
 Books
 
+Temporary junk
+
 ## Places
 My [Tom Bihn Synapse 19](http://www.tombihn.com/PROD/TB0110.html)
 has these pockets
